@@ -1,5 +1,4 @@
 ## Welcome to ChristianCrz117 Pages
-## I hope who ever reads this likes it.
 
 You can use the [editor on GitHub](https://github.com/ChristianCruz117/ChristianCruz117.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
