@@ -1,4 +1,4 @@
-## Welcome to ChristianCruz117 Pages
+# Welcome to ChristianCruz117 Pages
 
 # About Me
 
